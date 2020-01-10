@@ -1,0 +1,54 @@
+a: Used to make hyperlinks with its attributes
+
+	attributes: href
+	
+	example: <a href="https://discordapp.com/">a website</a>
+	
+h1: Header tag,makes the text large and puts it on a separate line. Good for making titles or headings.
+
+	attributes: none
+	
+	example: <h1>Mr Pelletier</h1>
+	
+h6: Header tag, like h1 but the text is smaller. There are header tags, like h1 but the text is smaller. There are header tags from h1 to h6. h6 is the smallest. Good for sub headings.
+
+	attributes: none
+	
+	example: </h6>Things I like</h6>
+
+img: Used to embed things like images
+
+	attributes: src
+	
+	example: <img src="meme.jpg"> </img>
+
+	attributes
+	
+li: Lists items in correspondence with <ol> or <ul>
+
+	attributes: none
+	
+	example: <ol>3 random things</ol> or <ul>3 random things</ul>
+				<li>thing</li>
+				<li>thing2</li>
+				<li>thing3</li>
+
+ol: Use to make a list with numbers
+
+	attributes: none
+	
+	example: <ol>3 random things</ol>
+	
+p: Creates paragrahs so things don't look messy.
+
+	attributes: none
+	
+	example: <p>Text text text</p>
+	
+ul: Use to make a list with bullet-points.
+
+	attributes: none
+	
+	example: <ul>3 random things</ul>
+
+	
