@@ -1,9 +1,23 @@
+!DOCTYPE: Selects the current verison of html, no closing tag! Need it to be a valid html document
+
+	attributes: none
+
+	example: <!DOCTYPE html>
+
 a: Used to make hyperlinks with its attributes
 
 	attributes: href
 	
 	example: <a href="https://discordapp.com/">a website</a>
-	
+
+body: defines the content of your webste/html code
+
+	attributes: none
+
+	example: <body>
+		 <p>Hello, I am Daniel, during my spare time other than gaming, I like to read or play around with photoshop and code.</p>
+		 </body>	
+
 h1: Header tag,makes the text large and puts it on a separate line. Good for making titles or headings.
 
 	attributes: none
@@ -15,6 +29,24 @@ h6: Header tag, like h1 but the text is smaller. There are header tags, like h1 
 	attributes: none
 	
 	example: </h6>Things I like</h6>
+
+head: Contains things for your web browser to think about
+
+	attributes: none
+
+	example: <head> <!-- Contains things for your web browser to think about -->
+			<title>First Website</title>
+		 </head>
+
+html: Web browsers need it in order to be a valid html document.
+
+	attributes: none
+
+	example: <html>
+			<head> <!-- Contains things for your web browser to think about -->
+			<title>First Website</title>
+			</head>
+		 </html>
 
 img: Used to embed things like images
 
