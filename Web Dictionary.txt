@@ -77,6 +77,25 @@ p: Creates paragrahs so things don't look messy.
 	
 	example: <p>Text text text</p>
 	
+style: CCS code to style our site
+	
+	attributes: none
+	
+	example: selector {
+		 	property: value ;
+	         }
+	
+	example 2: <style>
+		   h1 {
+			font-size: 100pt ;
+		        color: green;
+		   }
+		   
+		   p {
+		   	font-size: 18pt;
+		   {
+	           </style>
+
 ul: Use to make a list with bullet-points.
 
 	attributes: none
