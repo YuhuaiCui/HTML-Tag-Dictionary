@@ -18,6 +18,17 @@ body: defines the content of your webste/html code
 		 <p>Hello, I am Daniel, during my spare time other than gaming, I like to read or play around with photoshop and code.</p>
 		 </body>	
 
+div: Use to create divisions like boxes, stuff inside the style tag.
+	
+	attributes: none
+
+	example: <style>
+			div {
+			width: 800px;
+			border: 3px solid purple;
+			}
+		 </style>
+
 h1: Header tag,makes the text large and puts it on a separate line. Good for making titles or headings.
 
 	attributes: none
@@ -77,29 +88,18 @@ p: Creates paragrahs so things don't look messy.
 	
 	example: <p>Text text text</p>
 	
-style: CCS code to style our site
-	
+style: Goes under title, in the head, and is used for CSS
+
 	attributes: none
-	
-	example: selector {
-		 	property: value ;
-	         }
-	
-	example 2: <style>
-		   h1 {
-			font-size: 100pt ;
-		        color: green;
-		   }
-		   
-		   p {
-		   	font-size: 18pt;
-		   {
-	           </style>
+
+	example: <style>
+			body {
+			background-color: black;
+		}
+		</style>
 
 ul: Use to make a list with bullet-points.
 
 	attributes: none
 	
 	example: <ul>3 random things</ul>
-
-	
