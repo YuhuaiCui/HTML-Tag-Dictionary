@@ -18,6 +18,13 @@ body: defines the content of your webste/html code
 		 <p>Hello, I am Daniel, during my spare time other than gaming, I like to read or play around with photoshop and code.</p>
 		 </body>	
 
+br: Use to add a space between lines
+
+	attributes: none
+	
+	example: <br>
+		 random text
+
 div: Use to create divisions like boxes, stuff inside the style tag.
 	
 	attributes: none
@@ -63,7 +70,7 @@ img: Used to embed things like images
 
 	attributes: src
 	
-	example: <img src="meme.jpg"> </img>
+	example: <img src="meme.jpg">
 
 	attributes
 	
